@@ -13,4 +13,4 @@
 
 Resumes: 
 1. http://mohitb117.github.io/
-2. PDF: https://github.com/mohitb117/mohitb117/blob/main/mohit.bhalla_Resume21.pdf (might not be up to date).
+2. PDF: https://github.com/mohitb117/mohitb117/blob/main/latest_resume.pdf (might not be up to date).
