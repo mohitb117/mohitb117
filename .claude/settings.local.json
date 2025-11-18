@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --print-to-pdf=\"/Users/mohit.bhalla/workspaces/mohitb117/resume.pdf\" --print-to-pdf-no-header \"file:///Users/mohit.bhalla/workspaces/mohitb117/resume.md\")",
+      "Bash(pandoc:*)",
+      "Bash(wkhtmltopdf:*)",
+      "Bash(htmldoc:*)",
+      "Bash(sed:*)",
+      "Bash(open:*)",
+      "Bash(\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --print-to-pdf=\"/Users/mohit.bhalla/workspaces/mohitb117/resume_simple.pdf\" \"file:///Users/mohit.bhalla/workspaces/mohitb117/resume_simple.html\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
